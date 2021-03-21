@@ -1,0 +1,21 @@
+.Binance_Futures_python-master/*.pyc
+.Binance_Futures_python-master/build/*
+.Binance_Futures_python-master/dist/*
+.Binance_Futures_python-master/binance_futures.egg-info/*
+
+# jupyter
+.Binance_Futures_python-master/*.ipynb_checkpoints
+.Binance_Futures_python-master/*.ipynb
+
+# Mac system
+.DS_Store
+
+# VSCode
+.vscode
+
+# Python venv
+.venv
+.binance_futures
+
+##### Customize
+.Binance_Futures_python-master/binance_f/constant/test.py
