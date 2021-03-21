@@ -16,3 +16,7 @@ binance_futures.egg-info/*
 # Python venv
 .venv
 .binance_futures
+
+##### Customize
+binance_f/constant/test.py
+example/log/*
