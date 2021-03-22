@@ -1,11 +1,11 @@
-Binance_Futures_python-master/*.pyc
-Binance_Futures_python-master/build/*
-Binance_Futures_python-master/dist/*
-Binance_Futures_python-master/binance_futures.egg-info/*
+Binance_Futures_python/*.pyc
+Binance_Futures_python/build/*
+Binance_Futures_python/dist/*
+Binance_Futures_python/binance_futures.egg-info/*
 
 # jupyter
-Binance_Futures_python-master/*.ipynb_checkpoints
-Binance_Futures_python-master/*.ipynb
+Binance_Futures_python/*.ipynb_checkpoints
+Binance_Futures_python/*.ipynb
 
 # Mac system
 .DS_Store
@@ -18,4 +18,4 @@ Binance_Futures_python-master/*.ipynb
 .binance_futures
 
 ##### Customize
-Binance_Futures_python-master/binance_f/constant/test.py
+Binance_Futures_python/binance_f/constant/test.py
